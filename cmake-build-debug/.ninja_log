@@ -1,0 +1,21 @@
+# ninja log v5
+31	515	6782298550555502	CMakeFiles/mishinu.dir/matrix.cpp.obj	868f1d966f4a619a
+0	530	6782298550705542	CMakeFiles/mishinu.dir/main.cpp.obj	79f038beded6deab
+530	835	6782298553666201	mishinu.exe	b6ddab3f6e4f496f
+34	481	6782299055798452	CMakeFiles/mishinu.dir/matrix.cpp.obj	868f1d966f4a619a
+2	498	6782299055958493	CMakeFiles/mishinu.dir/main.cpp.obj	79f038beded6deab
+499	784	6782299058749195	mishinu.exe	b6ddab3f6e4f496f
+3	538	6782299639134164	CMakeFiles/mishinu.dir/main.cpp.obj	79f038beded6deab
+36	555	6782299639304213	CMakeFiles/mishinu.dir/matrix.cpp.obj	868f1d966f4a619a
+556	851	6782299642194858	mishinu.exe	b6ddab3f6e4f496f
+3	458	6782301176913260	CMakeFiles/mishinu.dir/main.cpp.obj	79f038beded6deab
+459	747	6782301179712647	mishinu.exe	b6ddab3f6e4f496f
+4	633	6782301884618779	CMakeFiles/mishinu.dir/main.cpp.obj	79f038beded6deab
+38	657	6782301884838836	CMakeFiles/mishinu.dir/matrix.cpp.obj	868f1d966f4a619a
+658	1012	6782301888339595	mishinu.exe	b6ddab3f6e4f496f
+3	574	6782302503193330	CMakeFiles/mishinu.dir/main.cpp.obj	79f038beded6deab
+33	584	6782302503273352	CMakeFiles/mishinu.dir/matrix.cpp.obj	868f1d966f4a619a
+585	967	6782302507064194	mishinu.exe	b6ddab3f6e4f496f
+32	493	6782302671801524	CMakeFiles/mishinu.dir/matrix.cpp.obj	868f1d966f4a619a
+4	509	6782302671951548	CMakeFiles/mishinu.dir/main.cpp.obj	79f038beded6deab
+510	801	6782302674792209	mishinu.exe	b6ddab3f6e4f496f
